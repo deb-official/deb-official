@@ -9,4 +9,4 @@ I work on learning and reasoning in large output spaces, mechanistic interpretab
 - **PLANT**: *Don't Pay Attention, PLANT It: Pretraining Attention via Learning-to-Rank*. NeurIPS 2026 (Main Track). [Paper](https://arxiv.org/abs/2410.23066) · [Code](https://github.com/deb-official/plant)
 - **MISTILL**: *Characterize Then Distill: Mechanistic Reasoning in Large Output Spaces*. Preprint, 2026. [Paper](https://arxiv.org/abs/2606.06840) · code coming soon
 
-[debjyoti.org](https://debjyoti.org) · [LinkedIn](https://linkedin.com/in/debjyotisaharoy) · [X](https://x.com/debjyotisaharoy)
+[debjyoti.org](https://debjyoti.org) · [Google Scholar](https://scholar.google.com/citations?user=EVdVapAAAAAJ) · [LinkedIn](https://linkedin.com/in/debjyotisaharoy) · [X](https://x.com/debjyotisaharoy)
